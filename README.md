@@ -1,4 +1,4 @@
-# Landing page
+# JavaScript Calculator
 
 <div id="top"></div>
 <!--
@@ -81,7 +81,7 @@
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 <!-- We'll add Screenshots when it's done -->
 
-This is a demo landing page for a product. Built to showcase our web development skills!
+This is a Javascript Calculator made with HTML, CSS and vanilla Javascript. Built to showcase our web development skills!
 
 <!-- Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description` -->
 
@@ -141,8 +141,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-- [x] Start building landing page
-- [ ] Finish amazing landing page
+- [x] Start building amazing calculator
+- [ ] Finish amazing calculator
 - [ ] Put it up with Github pages
 
 <p align="right">(<a href="#top">back to top</a>)</p>
